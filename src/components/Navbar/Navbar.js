@@ -8,7 +8,7 @@ const Navbar = (props) => (
                 <a href='/'>Clicky Game</a>
             </li>
             <li className={props.messageClass}>{props.message}</li>
-            <li>Score: {props.score} | Top Score: {props.topscore}</li>
+            <li>Score: {props.score} | Top Score: {props.topScore}</li>
         </ul>
     </nav>
 );
