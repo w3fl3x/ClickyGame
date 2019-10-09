@@ -5,7 +5,7 @@ const Footer = () => (
     <footer className='footer'>
         <div className='footer-bottom'>
             Clicky Game!
-            <img alt='react' src='../../../logo.svg' />
+            <img alt='react' src='../../../logo192.png' />
         </div>
     </footer>
 );
