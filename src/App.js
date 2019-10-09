@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Header from './components/Header';
 import Item from './components/Item';
 import Footer from './components/Footer';
+import helmets from './helmets.json';
 import logo from './logo.svg';
 import './App.css';
 
