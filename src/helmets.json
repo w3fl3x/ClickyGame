@@ -1,74 +1,74 @@
 [
     {
         "id": 0,
-        "name": "",
-        "image": "",
+        "name": "black helmet",
+        "image": "assets/images/black.jpg",
         "isClicked": false
     },
     {
         "id": 1,
-        "name": "",
-        "image": "",
+        "name": "purple helmet",
+        "image": "assets/images/purple.jpg",
         "isClicked": false
     },
     {
         "id": 2,
-        "name": "",
-        "image": "",
+        "name": "white with stripe helmet",
+        "image": "assets/images/whitenew.jpg",
         "isClicked": false
     },
     {
         "id": 3,
-        "name": "",
-        "image": "",
+        "name": "gold chrome helmet",
+        "image": "assets/images/goldchrome.png",
         "isClicked": false
     },
     {
         "id": 4,
-        "name": "",
-        "image": "",
+        "name": "purple chrome helmet",
+        "image": "assets/images/purplechrome.jpg",
         "isClicked": false
     },
     {
         "id": 5,
-        "name": "",
-        "image": "",
+        "name": "white old helmet",
+        "image": "assets/images/whiteold.png",
         "isClicked": false
     },
     {
         "id": 6,
-        "name": "",
-        "image": "",
+        "name": "gold with dawg helmet",
+        "image": "assets/images/golddawg.jpg",
         "isClicked": false
     },
     {
         "id": 7,
-        "name": "",
-        "image": "",
+        "name": "gold with flag helmet",
+        "image": "assets/images/goldflag.jpg",
         "isClicked": false
     },
     {
         "id": 8,
-        "name": "",
-        "image": "",
+        "name": "gold new helmet",
+        "image": "assets/images/goldnew.jpg",
         "isClicked": false
     },
     {
         "id": 9,
-        "name": "",
-        "image": "",
+        "name": "white helmet",
+        "image": "assets/images/white.jpg",
         "isClicked": false
     },
     {
         "id": 10,
-        "name": "",
-        "image": "",
+        "name": "gold old helmet",
+        "image": "assets/images/goldold.jpg",
         "isClicked": false
     },
     {
         "id": 11,
-        "name": "",
-        "image": "",
+        "name": "white with flag helmet",
+        "image": "assets/images/whiteflag.jpg",
         "isClicked": false
     }
 ]
