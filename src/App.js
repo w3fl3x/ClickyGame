@@ -76,12 +76,16 @@ class App extends Component {
   }
 
   handleResetWin = (currentHelmets) => {
-    // Duplicate selection, reset score to 0
-    this.setState({score: 0, message: 'You guessed incorrectly!'});
-    // Reset clicked state for helmets
-    const updatedHelmets = this.state.helmets.map(helmet => helmet.isClicked === true ? { ...helmet, isClicked: false } : helmet);
-    
-    return updatedHelmets;
+    // If current score is at max, reset score to 0 and top score to 0
+    if (this.state.score+1 === this.state.maxScore) {
+      this.setState({score: 0, topScore: 0});
+      // Reset clicked state for helmets
+      const updatedHelmets = currentHelmets.map(helmet => (true) ? { ...helmet, isClicked: false } : helmet);
+
+      return updatedHelmets;
+    } else {
+      return currentHelmets;
+    }
   }
 
   handleIncorrectSelection = () => {
