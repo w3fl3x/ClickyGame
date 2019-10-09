@@ -1,0 +1,24 @@
+.footer {
+    background: #85754d;
+    height: 100px;
+    position: relative;
+    color: #b7a57a;
+    overflow: auto;
+}
+
+.footer-bottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #4b2e83;
+    padding: 8px;
+    font-weight: 600;
+}
+
+.footer img {
+    width: 20px;
+    position: relative;
+    top: 3px;
+    left: 2px;
+}
