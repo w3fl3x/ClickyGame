@@ -14,7 +14,7 @@
     {
         "id": 2,
         "name": "white with stripe helmet",
-        "image": "assets/images/whitenew.jpg",
+        "image": "assets/images/whitenewr.jpg",
         "isClicked": false
     },
     {
@@ -38,7 +38,7 @@
     {
         "id": 6,
         "name": "gold with dawg helmet",
-        "image": "assets/images/golddawg.jpg",
+        "image": "assets/images/golddawgr.jpg",
         "isClicked": false
     },
     {
