@@ -14,16 +14,16 @@ A memory game built with React.
 ## Screenshots
 
 ### Clicky Game home page
-![homepage](public/assets/Screenshot1.png)
+![homepage](public/assets/images/Screenshot1.png)
 
 ### Guessed right
-![homepage](public/assets/Screenshot2.png)
+![right](public/assets/images/Screenshot2.png)
 
 ### Guessed wrong
-![homepage](public/assets/Screenshot4.png)
+![wrong](public/assets/images/Screenshot4.png)
 
 ### Win and game reset
-![homepage](public/assets/Screenshot3.png)
+![win](public/assets/images/Screenshot3.png)
 
 ## Technologies Used
 
